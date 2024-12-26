@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed23668443376d87a80e1d408ea6bba9e1fda920
 import React,{ useState } from "react";
 import "./Menu.css";
 
