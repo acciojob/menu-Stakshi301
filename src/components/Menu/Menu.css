@@ -35,25 +35,35 @@ img {
   padding: 5px;
 }
 
-.price{
-    color: #C59D5F;
+.price {
+  color: #c59d5f;
 }
 
-.heading{
-    font-weight: 500;
-    text-transform: capitalize;
+.heading {
+  font-weight: 500;
+  text-transform: capitalize;
 }
 
-.Menu_categories_container{
+.Menu_categories_container {
   /* background-color: aquamarine; */
   width: 30%;
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: #C59D5F;
+  color: #c59d5f;
 }
 
-.Menu_categories{
+.Menu_categories {
   font-weight: 100;
+}
+
+.Heading {
+  /* background-color: red; */
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-decoration-color: #c59d5f;
+  color: #102a42;
 }
