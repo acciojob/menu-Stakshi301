@@ -88,25 +88,25 @@ const Menu = () => {
     <>
       <div>
         <div className="Menu_categories_container">
-          <button
+          <button 
             className="Menu_categories"
             onClick={() => setSelectedCategory("all")}
           >
             All
           </button>
-          <button
+          <button id="filter-btn-1"
             className="Menu_categories"
             onClick={() => setSelectedCategory("breakfast")}
           >
             Breakfast
           </button>
-          <button
+          <button id="filter-btn-2"
             className="Menu_categories"
             onClick={() => setSelectedCategory("lunch")}
           >
             Lunch
           </button>
-          <button
+          <button id="filter-btn-3"
             className="Menu_categories"
             onClick={() => setSelectedCategory("shakes")}
           >
