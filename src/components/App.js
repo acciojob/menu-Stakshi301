@@ -3,7 +3,7 @@
   ReactDOM.render
 </p>;
 import PageHead from "./components/Page_heading/PageHead";
-import Menu from "./components/Menu/Menu";
+import Menu from "./Menu/Menu";
 import "./index.css";
 function App() {
   return (
