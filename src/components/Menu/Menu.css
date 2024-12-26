@@ -23,6 +23,7 @@ img {
 .description {
   font-size: 15px;
   color: grey;
+  line-height: 20px;
 }
 
 .heading_price_container {
@@ -56,6 +57,8 @@ img {
 
 .Menu_categories {
   font-weight: 100;
+  border:  none;
+  color: #c59d5f;
 }
 
 .Heading {
