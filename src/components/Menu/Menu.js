@@ -17,3 +17,4 @@ function Menu({setCatogory}){
     )
 }
 export default Menu;
+
