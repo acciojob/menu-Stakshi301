@@ -8,7 +8,6 @@ const CompA = ({item}) => {
   return (
     <div data-test-id={"menu-item-" + category} style={{display:"flex", border:"1px solid black", width:"500px"}}>
         <img src={img} alt='broken'/>
-
         <div>
             <div>
                 <h3>{title}</h3>
