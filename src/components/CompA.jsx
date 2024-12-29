@@ -1,7 +1,6 @@
 import React from 'react'
 
 const CompA = ({item}) => {
-
     const{title, price, desc, category, img} = item
     // console.log(title)
 
